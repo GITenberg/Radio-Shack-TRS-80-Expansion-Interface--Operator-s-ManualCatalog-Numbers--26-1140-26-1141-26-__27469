@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27469#Radio-Shack-TRS-80-Expansion-Interface--Operator-s-ManualCatalog-Numbers--26-1140-26-1141-26-_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2008-12-09'
 gutenberg_type: Text
