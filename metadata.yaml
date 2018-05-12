@@ -1,0 +1,31 @@
+_repo: Radio-Shack-TRS-80-Expansion-Interface--Operator-s-ManualCatalog-Numbers--26-1140-26-1141-26-__27469
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2008-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27469'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'TRS-80 computers -- Handbooks, manuals, etc.'
+- !lcc 'TK'
+title: 'Radio Shack TRS-80 Expansion Interface: Operator''s Manual
+
+  Catalog Numbers: 26-1140, 26-1141, 26-1142'
+url: http://www.gutenberg.org/ebooks/27469
