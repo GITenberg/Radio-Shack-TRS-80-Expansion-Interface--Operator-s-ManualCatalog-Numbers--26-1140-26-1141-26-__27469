@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'TRS-80 computers -- Handbooks, manuals, etc.'
 - !lcc 'TK'
+- GITenberg
 title: 'Radio Shack TRS-80 Expansion Interface: Operator''s Manual
 
   Catalog Numbers: 26-1140, 26-1141, 26-1142'
